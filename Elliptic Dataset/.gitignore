@@ -1,0 +1,9 @@
+Elliptic Dataset/
+*.csv
+*.parquet
+*.pt
+*.h5
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+.vscode/
